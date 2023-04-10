@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "categoryID": 1,
+      "name": "Elektronika"
+    },
+    {
+      "categoryID": 2,
+      "name": "Karty graficzne"
+    },
+    {
+      "categoryID": 3,
+      "name": "Konsole"
+    },
+    {
+      "categoryID": 10,
+      "name": "Inne"
+    },
+    {
+      "categoryID": 11,
+      "name": "newCategory"
+    },
+    {
+      "categoryID": 12,
+      "name": "newCategory12"
+    },
+    {
+      "categoryID": 13,
+      "name": "newCategory12"
+    },
+    {
+      "categoryID": 18,
+      "name": "newCategory18"
+    },
+    {
+      "categoryID": 19,
+      "name": "newCategory25"
+    }
+  ],
+  "promotions": [
+    {
+      "promotionID": 1,
+      "title": "NVidia 3060RTX",
+      "description": "nvidia",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 2,
+      "title": "NVidia 3070RTX",
+      "description": "nvidia",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 2,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 3,
+      "title": "AMD5333",
+      "description": "ryzen",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 4,
+      "title": "Intel I7-6500",
+      "description": "pentium",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 5,
+      "title": "AMD Ryzen xxx",
+      "description": "ryzen",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 3,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 6,
+      "title": "NVidia 3060RTX",
+      "description": "nvidia",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 7,
+      "title": "Playstation 5",
+      "description": "1012",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 8,
+      "title": "Playstation 5",
+      "description": "1011",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 2,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    },
+    {
+      "promotionID": 9,
+      "title": "Playstation 4 Pro",
+      "description": "CUH-1911",
+      "insertDate": "2023-04-01T14:41:49",
+      "updateDate": "2023-04-01T14:41:48",
+      "insertedBy": 0,
+      "updatedBy": 0,
+      "countryID": 1,
+      "promotionPhotos": null,
+      "promotionRatings": null
+    }
+  ]
+}
